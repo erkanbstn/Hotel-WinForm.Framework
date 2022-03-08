@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="OtelDBModelStoreContainer" CdmEntityContainer="OtelDBEntities">
+    <EntitySetMapping Name="TAdmin">
+      <EntityTypeMapping TypeName="OtelDBModel.TAdmin">
+        <MappingFragment StoreEntitySet="TAdmin">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Kullanici" ColumnName="Kullanici" />
+          <ScalarProperty Name="Sifre" ColumnName="Sifre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TRezervasyon">
+      <EntityTypeMapping TypeName="OtelDBModel.TRezervasyon">
+        <MappingFragment StoreEntitySet="TRezervasyon">
+          <ScalarProperty Name="TC" ColumnName="TC" />
+          <ScalarProperty Name="Musteri" ColumnName="Musteri" />
+          <ScalarProperty Name="Telefon" ColumnName="Telefon" />
+          <ScalarProperty Name="Yas" ColumnName="Yas" />
+          <ScalarProperty Name="GirisTarih" ColumnName="GirisTarih" />
+          <ScalarProperty Name="CikisTarih" ColumnName="CikisTarih" />
+          <ScalarProperty Name="Cocuk" ColumnName="Cocuk" />
+          <ScalarProperty Name="Yetiskin" ColumnName="Yetiskin" />
+          <ScalarProperty Name="OdaTipi" ColumnName="OdaTipi" />
+          <ScalarProperty Name="Fiyat" ColumnName="Fiyat" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,6 @@
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\OtelOtomasyon\VarlikKatmani\bin\Debug\VarlikKatmani.dll
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\OtelOtomasyon\VarlikKatmani\bin\Debug\VarlikKatmani.pdb
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\OtelOtomasyon\VarlikKatmani\obj\Debug\VarlikKatmani.csproj.AssemblyReference.cache
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\OtelOtomasyon\VarlikKatmani\obj\Debug\VarlikKatmani.csproj.CoreCompileInputs.cache
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\OtelOtomasyon\VarlikKatmani\obj\Debug\VarlikKatmani.dll
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\OtelOtomasyon\VarlikKatmani\obj\Debug\VarlikKatmani.pdb

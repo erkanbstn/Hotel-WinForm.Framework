@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="OtelDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="TAdmin">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Byte" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Kullanici" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Sifre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="TRezervasyon">
+    <Key>
+      <PropertyRef Name="TC" />
+    </Key>
+    <Property Name="TC" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Musteri" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Telefon" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Yas" Type="String" MaxLength="3" FixedLength="false" Unicode="false" />
+    <Property Name="GirisTarih" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="CikisTarih" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Cocuk" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Yetiskin" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="OdaTipi" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Fiyat" Type="Int32" />
+  </EntityType>
+  <EntityContainer Name="OtelDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="TAdmin" EntityType="Self.TAdmin" />
+    <EntitySet Name="TRezervasyon" EntityType="Self.TRezervasyon" />
+  </EntityContainer>
+</Schema>
