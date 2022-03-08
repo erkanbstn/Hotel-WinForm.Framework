@@ -1,0 +1,11 @@
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\OtelOtomasyon\IsKatmani\bin\Debug\IsKatmani.dll
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\OtelOtomasyon\IsKatmani\bin\Debug\IsKatmani.pdb
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\OtelOtomasyon\IsKatmani\bin\Debug\VarlikKatmani.dll
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\OtelOtomasyon\IsKatmani\bin\Debug\VeriErisimKatmani.dll
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\OtelOtomasyon\IsKatmani\bin\Debug\VarlikKatmani.pdb
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\OtelOtomasyon\IsKatmani\bin\Debug\VeriErisimKatmani.pdb
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\OtelOtomasyon\IsKatmani\obj\Debug\IsKatmani.csproj.AssemblyReference.cache
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\OtelOtomasyon\IsKatmani\obj\Debug\IsKatmani.csproj.CoreCompileInputs.cache
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\OtelOtomasyon\IsKatmani\obj\Debug\IsKatmani.csproj.CopyComplete
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\OtelOtomasyon\IsKatmani\obj\Debug\IsKatmani.dll
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\OtelOtomasyon\IsKatmani\obj\Debug\IsKatmani.pdb
